@@ -1,0 +1,255 @@
+
+header{
+
+    
+    margin-bottom: -20px;
+}
+h1{
+	 text-align: center;
+}
+
+.dost{
+    width: 242px;
+    height: 200px;
+}
+
+  .lin{
+  width:100%;
+  border-top:3px solid #acc2e4;
+  margin-bottom:15px;
+ 
+  }
+
+  
+  .fr
+  {
+	  	font-size: 4vmin;
+
+  }
+  
+  /*
+input[type="text"],
+input[type="email"]{
+ 
+  margin-left:7%;
+  width: 100%;
+  border: solid 1px #fff;
+  box-shadow: inset 1px 1px 2px 0 #d3d3d3;
+  transition: box-shadow 0.3s;
+  background: linear-gradient(to top left,  #acc2e4 , #ffffff);
+  color: #000;
+
+}*/
+ form{
+  
+    
+    width: 290px;
+    padding-top:5%;
+    height: 300px;
+    margin-right:20%;
+
+    position:relative;
+    color: #fff;
+   margin: auto;
+    
+}
+input[type="text"],
+input[type="email"]{
+  margin: 5px;
+  margin-left:25px;
+  padding: 7px;
+  width: 200px;
+  border: solid 1px #fff;
+  box-shadow: inset 1px 1px 2px 0 #d3d3d3;
+  transition: box-shadow 0.3s;
+  background: linear-gradient(to top left,  #acc2e4 , #ffffff);
+  color: #000;
+
+}
+
+.fo{
+    background-image: url(image/fon6.jpg);
+    width: 101.1%;
+    height: 100%;
+    position: relative;
+	
+ 
+
+}
+
+
+.gbutton{
+    border-radius: 4px;
+    color: #fff;
+    display:block;
+    width:180px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 8px 16px;
+    margin-top: 15px ;
+	margin-left: 30px ;
+    text-decoration: none;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+    background-color: rgb( 43, 153, 91 );
+    border: 1px solid rgb( 33, 126, 74 );
+    }
+   
+            
+    .gbutton:hover,
+    .gbutton:active
+    {
+		 text-decoration: none;
+    background-color: rgb( 75, 183, 141 );
+	color: #fff;
+    }
+    .ghost-button {
+        border-radius: 4px;
+        text-decoration: none;
+        display: inline-block;
+        width: 215px;
+        padding: 19px;
+        margin-left:60px;
+        font-size: 18px;
+        background-color: rgb( 43, 153, 91 );
+        border: 1px solid rgb( 33, 126, 74 );
+        color: #fff;
+      
+        text-align: center;
+    
+        letter-spacing: 3px;
+     
+      }
+      
+      .ghost-button:hover,
+      .ghost-button:active {
+        text-decoration: none;
+        background-color: rgb( 75, 183, 141 );
+     
+        color: #fff;
+      }
+      
+     .qw
+     {
+        display:inline-block;
+     padding-left:5%;
+	     padding-right:15%;
+      padding-top:10%;
+        left:10%;
+        font-size: 4vmin;
+     
+        color: #fff; 
+	
+     }
+     .qwe
+     {  padding-left:20%;
+        display:inline-block;
+       
+        top:45%;
+        
+	
+    
+       
+     }
+	 .otp  {
+    display:inline-block;
+   
+   padding-top:5%;
+  margin-left:10%;
+
+
+  
+    color: #fff;
+font-size: 4vmin;
+
+
+  }
+  .otp h3 {
+  
+    font-size: 5vmin;
+    color: #fff;
+	
+   
+  }
+	 
+footer{ 
+   
+  
+    height: 5%;
+    background-image: url(image/fon6.jpg);
+  }
+   
+  .f2018 {
+    font-size: 3vmin;
+ 
+    color: rgb(255, 234, 234);
+    text-align: center;
+    position: relative;
+
+ 
+  }
+  
+  .de{
+      
+    font-size: 15px;
+    color: rgb(5, 5, 5);
+    text-align: left;
+    position: relative;
+    left: 60%;
+  }
+
+
+.home{
+    
+    width: 100%;
+    height: 100%;
+    display:inline-block;  
+    position:relative;
+    background-color: rgb(0, 0, 0);
+    margin:0px;
+    padding: 0px;
+	
+}
+.ho{
+  
+        display: inline-block;
+      
+    
+     width: 100%;
+}
+span {
+    display:inline-block;
+    position:absolute;
+    top:20%;
+    left:45%;
+    font-size: 25px;
+    color:#000;
+	font-size: 4vmin;
+}
+span h1{
+    font-size: 7vmin;
+    
+    color:#000;
+}
+ 
+  
+   
+  .fo1{
+    background-image: url(image/fon6.jpg);
+    width: 100%;
+    height: 100%;
+    position: relative;
+	
+
+}
+.pp
+{
+	width: 100%; /* ширина картинки */
+  height: auto; /* высота картинки */
+}
+.ipp
+{
+	width: 100%;
+  max-width: 650px;
+  min-width: 350px;
+}
